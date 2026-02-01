@@ -2,5 +2,5 @@
 
 ## About this repository
 
-This repository was created for Lab 1 – Git and GitHub.
+This repository was created by Rayan de Paula for Lab 1 – Git and GitHub.
 It demonstrates branching, pull requests, and merges.
